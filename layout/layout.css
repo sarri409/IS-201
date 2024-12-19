@@ -10,11 +10,15 @@ body {
 .header {
 
     top: 5px;
-    left: 5px;
-    right: 5px;
-    height: 100px;
+    left: 10px;
+    right: 10px;
+    height: 50px;
     z-index: 2;
     border-bottom: solid 1px #411475;
+}
+.subheader{
+    float: right;
+    justify-content: baseline;
 }
 .left-align{
     margin-left: 50px;
